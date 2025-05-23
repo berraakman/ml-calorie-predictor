@@ -115,7 +115,7 @@ class KaloriTahminApp(QMainWindow):
             "Kilo (kg)": "🏋️‍♂️ Kilo (kg)",
             "Süre (dk)": "⏱️ Egzersiz Süresi",
             "Nabız": "🫀 Kalp Atışı",
-            "Sıcaklık (°C)": "🌡️ Termometre"
+            "Sıcaklık (°C)": "🌡️ Sıcaklık"
         }
 
         self.inputs = {}
