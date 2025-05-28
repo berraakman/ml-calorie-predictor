@@ -1,0 +1,3 @@
+LinearRegression: R2 = 0.9673, MSE = 132.07
+RandomForest: R2 = 0.9980, MSE = 8.06
+XGBRegressor: R2 = 0.9988, MSE = 4.88
