@@ -91,9 +91,9 @@ X = [[gender, yas, boy, kilo, sure, kalp, sicaklik]]
 
 ## 🖼️ Ekran Görüntüleri
 
-- Giriş Ekranı: `screenshots/giris.png`
-- Tahmin Ekranı: `screenshots/tahmin.png`
-- Veri Analiz Ekranı: `screenshots/veri_analiz.png`
+![Giriş Ekranı](screenshots/giris.png)
+![Tahmin Ekranı](screenshots/tahmin.png)
+![Veri Analiz Ekranı](screenshots/veri_analiz.png)
 
 ---
 
