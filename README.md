@@ -131,7 +131,7 @@ ml-calorie-predictor/
 │   ├── veri_analiz.py
 │   ├── veri_görselleştir.py
 │   └── veri_hazirla.py
-├── README.md
+└── README.md
 
 ---
 
@@ -141,7 +141,7 @@ ml-calorie-predictor/
 git clone https://github.com/berraakman/ml-calorie-predictor.git  
 cd ml-calorie-predictor
 
-2. Sanal ortam oluşturun (isteğe bağlı ama önerilir):
+2. Sanal ortam oluşturun (isteğe bağlı):
 python -m venv venv  
 source venv/bin/activate  # macOS/Linux  
 venv\Scripts\activate   # Windows
@@ -164,7 +164,16 @@ python arayuz.py
 - [x] Grafik analizler ve ekran görüntüleri
 
 ---
+## 🤝 Katkı Sağlamak
 
-## 📝 Lisans
+> Bu proje bir üniversite ödevi kapsamında geliştirilmiştir. Ancak öneri ve geri bildirimlere açıktır.
 
-Bu proje MIT Lisansı ile lisanslanmıştır.
+## 🏫 Akademik Bilgiler
+
+- **Üniversite**: Bursa Uludağ Üniversitesi
+- **Bölüm**: Bilgisayar Mühendisliği
+- **Ders**: Python Programlamaya Giriş
+- **Dönem**: 2024-2025 Bahar
+
+
+
