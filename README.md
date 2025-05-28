@@ -99,6 +99,7 @@ X = [[gender, yas, boy, kilo, sure, kalp, sicaklik]]
 
 ## 📂 Proje Yapısı
 
+```
 ml-calorie-predictor/
 ├── arayuz.py
 ├── modelsA.py
@@ -119,7 +120,7 @@ ml-calorie-predictor/
 ├── screenshots/
 │   ├── giris.png
 │   ├── tahmin.png
-│   ├── veri_analiz.png
+│   └── veri_analiz.png
 ├── kalori_tahmin_projesi/
 │   ├── exercise.csv
 │   ├── calories.csv
@@ -132,7 +133,7 @@ ml-calorie-predictor/
 │   ├── veri_görselleştir.py
 │   └── veri_hazirla.py
 └── README.md
-
+```
 ---
 
 ## ⚙️ Kurulum Talimatları
