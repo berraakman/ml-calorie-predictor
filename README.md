@@ -58,10 +58,9 @@ Model dosyası: `xgb_model.pkl`
 
 | Dosya Adı                    | Açıklama                                                                  |
 |------------------------------|---------------------------------------------------------------------------|
-| veriler/dataset1.csv         | İlk ham veri seti, eksik ve gürültülü veriler içermekteydi                |
-| veriler/dataset_birlesmis.csv| Temizlenmiş ve birleştirilmiş ana veri seti (model eğitimi için kullanıldı) |
+| birlesik_kalori.csv         | İlk ham veri seti, eksik ve gürültülü veriler içermektedir               |
+| veri_model_icin_hazir.csv| Temizlenmiş ve birleştirilmiş ana veri seti (model eğitimi için kullanıldı) |
 
-➡️ Veri işleme ve görselleştirme işlemleri Zeynep Zümral Kılıç tarafından gerçekleştirilmiştir.
 
 ---
 
