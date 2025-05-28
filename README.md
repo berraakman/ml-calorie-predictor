@@ -175,6 +175,9 @@ python arayuz.py
 - **Bölüm**: Bilgisayar Mühendisliği
 - **Ders**: Python Programlamaya Giriş
 - **Dönem**: 2024-2025 Bahar
+- **Grup**: 12
+  
+
 
 
 
